@@ -1,7 +1,4 @@
 # CowsOnlineV3
-
----
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 3rd rewrite of cows online, the online version of the card game I've developed for 3 years. Maybe I'll even get a copyright or patent or something.
